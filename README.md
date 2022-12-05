@@ -1,6 +1,5 @@
 # binarysearchtree
 Full Java implementation of a binary search tree data structure.
-For Data Structures Spring 2022
 
 
 This implementation provides guaranteed O(H) retrieval time. 
