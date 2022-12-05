@@ -1,6 +1,7 @@
 # binarysearchtree
-Full Java implementation of a binary search tree data structure.
 
+
+Full Java implementation of a binary search tree data structure.
 
 This implementation provides guaranteed O(H) retrieval time. 
 
@@ -8,7 +9,7 @@ This implementation provides guaranteed O(H) retrieval time.
 Methods:
 | Modifier and Type | Method                                     | Description                                                                                                                                                                                                              |
 |-------------------|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| boolean           | add(E e)                                   | Adds the specified element to this set if it is not already present.                                                                                                                                                     |
+| boolean           | add(E e)                                   | Adds the specified element to this tree if it is not already present.                                                                                                                                                     |
 | boolean           | addAll(Collection<? extends E> collection) | Adds all of the elements in the specified collection to this tree.                                                                                                                                                       |
 | E                 | ceiling(E e)                               | Returns the least element in this tree greater than or equal to the given element, or null if there is no such element.                                                                                                  |
 | void              | clear()                                    | Removes all of the elements from this set.                                                                                                                                                                               |
